@@ -1,5 +1,6 @@
 Pizze_Platform to show the html bootstrap
 
+![image](https://github.com/kaho1156/web/assets/98607667/7477494f-65e2-4d60-b854-865d8c8d124a)
 
 
 createdb.js, index.html and index.js to show the webpage saved information and retrieve through user actions.
